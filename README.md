@@ -1,11 +1,13 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 💡 I like new technologies.
 - 📚 I'm currently studying at Language School "Prof. Dr. Zlatarov" and I'm taking courses at SoftUni.
-- 🌱 In my free time, I play badminton.
+- 🌱 In my free time I play badminton.
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools I know </h2>
 
