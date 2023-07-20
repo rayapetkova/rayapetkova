@@ -1,21 +1,25 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya 👋</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 - 💡 I like new technologies.
 - 📚 I'm currently studying at Language School "Prof. Dr. Zlatarov" and I'm taking courses at SoftUni.
 - 🌱 In my free time I play badminton.
 
-### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools I know </h2>
-
 <a target="_blank" align="right">
-  <img align="right" height="100" width="100" src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966">
+  <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
 </a>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+### <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools I use </h2>
 
-### 🤝🏻 &nbsp;Connect with Me
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<br />
+<br />
+
+### <h2> 🤝🏻 Connect with Me </h2>
 <p align="left">
   <a href="https://www.facebook.com/raya.petkova.54/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
