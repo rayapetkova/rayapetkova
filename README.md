@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 💡 I like new technologies.
-- 📚 I'm currently learning Python Web Development in SoftUni.
+- 📚 Currently learning Python Web Development in SoftUni.
 - 🌱 Fun fact: I play badminton🏸 and I like ice skating⛸️.
 
 <a target="_blank" align="right">
