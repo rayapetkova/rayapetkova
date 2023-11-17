@@ -14,8 +14,8 @@
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="padding-right:10px;"/>
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
+<img align="left" width="27" height="27" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
+<img align="left" width="27" height="27" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 
 <br />
 <br />
