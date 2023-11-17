@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 💡 I like new technologies.
 - 📚 I am currently learning Python Web Development in SoftUni.
-- 🌱 Fun facts: I play badminton🏸 and I like ice skating⛸️ and maths📐.
+- 🌱 Fun facts: I like maths📐, badminton🏸 and ice skating⛸️.
 
 <a target="_blank" align="right">
   <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png">
