@@ -16,6 +16,8 @@
 <img align="left" width="30" height="30" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql" style="padding-right:10px;"/>
 <img align="left" width="27" height="27" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;"/>
 <img align="left" width="27" height="27" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
+<img align="left" width="27" height="30" src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" style="padding-right:10px;"/>
+<img align="left" width="27" height="30" src="https://camo.githubusercontent.com/0da944f181647261c840e34b20ed7e3ca44ddc150869c6ea550cf98d06c81a37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" style="padding-right:10px;"/>
 
 <br />
 <br />
