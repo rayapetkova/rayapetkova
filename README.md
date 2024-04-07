@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/raya-petkova-77418a2a0/" target="blank"><img align="center"
       src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
       height="30" width="40" /></a>
-  <a href="[https://www.linkedin.com/in/raya-petkova-77418a2a0/](https://linktr.ee/rayapetkova)" target="blank"><img align="center"
+  <a href="https://linktr.ee/rayapetkova" target="blank"><img align="center"
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png"
       height="30" width="30" /></a>
 </p>
