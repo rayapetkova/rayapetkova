@@ -1,7 +1,10 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya 👋</h2>
 
 ### 👨🏻‍💻 About Me
-- 💡 I like new technologies
+- 👩 17 years old
+- 📖 Studying at Language School "Prof. Dr. Zlatarov"
+- 🥇 1st place at National IT Competion "IT World"
+- 💡  I like new technologies
 - 📚 I am currently learning Python Web Development in Software University (SoftUni). I am also learning JavaScript
 - 🌱 Fun facts: I like maths📐, badminton🏸, reading📚 and ice skating⛸️
 
