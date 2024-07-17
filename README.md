@@ -6,6 +6,7 @@
 - 🥇 1st place at National IT Competion "IT World"
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
+- 🔹 Mentor the Young S6 Participant
 - 📚 I am currently learning Python Web Development in Software University (SoftUni). I am also learning JavaScript
 - 🌱 Fun facts: I like maths📐, badminton🏸, reading📚 and ice skating⛸️
 
