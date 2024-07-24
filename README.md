@@ -3,10 +3,10 @@
 ### 👨🏻‍💻 About Me
 - 👩 17 years old
 - 📖 Studying at Language School "Prof. Dr. Zlatarov"
-- 🥇 1st place at National IT Competion "IT World"
+- 🥇 1st place at National IT Competition "IT World"
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
-- 🔹 Mentor the Young S6 Participant
+- 🔷 Mentor the Young S6 Participant
 - 📚 I am currently learning Python Web Development and JavaScript in Software University (SoftUni)
 - 🌱 Fun facts: I like maths📐, badminton🏸, reading📚 and ice skating⛸️
 
