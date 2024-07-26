@@ -1,7 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya 👋</h2>
 
 ### 👨🏻‍💻 About Me
-- 👩 17 years old
 - 📖 Studying at Language School "Prof. Dr. Zlatarov"
 - 🥇 1st place at National IT Competition "IT World"
 - 🐓 ABLE Mentor S20 Participant
