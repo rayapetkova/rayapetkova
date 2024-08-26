@@ -6,7 +6,7 @@
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
 - 🔷 Mentor the Young S6 Participant
-- 📚 I am currently learning Python Web Development and JavaScript in Software University (SoftUni)
+- 📚 I am currently learning Python Web Development and JavaScript Web Development in Software University (SoftUni)
 - 🎯 Fun facts about me: I like maths📐, badminton🏸, reading📚 and ice skating⛸️
 
 <a target="_blank" align="right">
