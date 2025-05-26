@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 💻 Lecturer at Advance Academy
 - 📖 Studying at Language School "Prof. Dr. Zlatarov"
+- 📝 Grade 6.00/6.00 - Informatics and Information Technology Project Competition - South-West University Neofit Rilski
 - 🥇 x2: 1st place at National IT Competition "IT World"
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
