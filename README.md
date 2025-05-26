@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 💻 Lecturer at Advance Academy
 - 📖 Studying at Language School "Prof. Dr. Zlatarov"
-- 🥇 1st place at National IT Competition "IT World"
+- 🥇 x2: 1st place at National IT Competition "IT World"
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
 - 🔷 Mentor the Young S6 Participant
