@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya 👋</h2>
 
 ### 👨🏻‍💻 About Me
-- 💻 Lecturer at Advance Academy
+- 💻 Lecturer at Advance Academy (in courses: Scratch, Python, Web)
 - 📖 Studying at Language School "Prof. Dr. Zlatarov"
 - 📝 Grade 6.00/6.00 - Informatics and Information Technology Project Competition - South-West University Neofit Rilski
 - 🥇 x2: 1st place at National IT Competition "IT World"
