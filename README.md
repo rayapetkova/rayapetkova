@@ -5,7 +5,7 @@
 - 📖 Studying at Language School "Prof. Dr. Zlatarov"
 - 📝 Grade 6.00/6.00 - Informatics and Information Technology Project Competition - South-West University Neofit Rilski
 - 🥇 x2: 1st place at National IT Competition "IT World"
-- 🥉: 3th place at National IT competition AMTIS 2025 (Front-End Web Development)
+- 🥉: 3rd place at National IT competition AMTIS 2025 (Front-End Web Development)
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
 - 🔷 Mentor the Young S6 Participant
