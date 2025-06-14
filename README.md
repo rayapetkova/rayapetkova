@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 💻 Lecturer at Advance Academy (in courses: Scratch, Python, Web)
-- 📖 Studying at Language School "Prof. Dr. Zlatarov"
+- 📖 Graduated from Language School "Prof. Dr. Zlatarov", Haskovo
 - 📝 Grade 6.00/6.00 - Informatics and Information Technology Project Competition - South-West University Neofit Rilski
 - 🥇 x2: 1st place at National IT Competition "IT World"
 - 🥉: 3rd place at National IT competition AMTIS 2025 (Front-End Web Development)
