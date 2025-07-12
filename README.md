@@ -3,12 +3,16 @@
 ### 👨🏻‍💻 About Me
 - 💻 Lecturer at Advance Academy (in courses: Scratch, Python, Web)
 - 🧮 Participant in Mathematical and IT competitions
-- 🎓Class of 2025 - Graduated from Language School "Prof. Dr. Zlatarov", Haskovo
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
 - 🔷 Mentor the Young S6 Participant
 - 📚 I am currently learning Python Web Development and JavaScript Web Development in Software University (SoftUni)
 - 🎯 Fun facts about me: I like maths📐, badminton🏸, cooking👩‍🍳 and ice skating⛸️
+
+### 📚 Education
+- 🏫 Technical University of Sofia (2025-2029) - Bachelor of Computer and Software Engineering
+- 💻 Software University (2022 - 2024) - Professional degree in Software Engineering (6.00/6.00 GPA)
+- 🎓 Language School "Prof. Dr. Zlatarov", Haskovo (2020 - 2025) - Intensive study of English, Mathematics and Information Technology
 
 ### 🎯 Achievements
 - 🥉: 3rd place at National IT competition AMTIS 2025 (Front-End Web Development)
