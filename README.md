@@ -6,6 +6,7 @@
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
 - 🔷 Mentor the Young S6 Participant
+- 🌟 Alumni member of the AMTIS Association
 - 🎯 Fun facts about me: I like maths📐, badminton🏸, cooking👩‍🍳 and ice skating⛸️
 
 ### 📚 Education
