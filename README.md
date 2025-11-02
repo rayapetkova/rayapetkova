@@ -51,7 +51,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/raya-petkova-77418a2a0/" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg"
       height="30" width="40" /></a>
   <a href="https://linktr.ee/rayapetkova" target="blank"><img align="center"
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png"
