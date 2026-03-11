@@ -1,6 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raya 👋</h2>
 
 ### 👨🏻‍💻 About Me
+- 💼 Python Fullstack Intern at INDUSTRIA Technology
 - 💻 Lecturer at Advance Academy (in courses: Scratch, Python, Web)
 - 🧮 Participant in Mathematical and IT competitions
 - 🐓 ABLE Mentor S20 Participant
