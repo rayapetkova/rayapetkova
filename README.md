@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 💼 Python Fullstack Intern at INDUSTRIA Technology
-- 💻 Lecturer at Advance Academy (in courses: Scratch, Python, Web)
+- 💻 Lecturer at Advance Academy (in courses: Python, HTML, CSS, Scratch)
 - 🧮 Participant in Mathematical and IT competitions
 - 🐓 ABLE Mentor S20 Participant
 - 🐔 ABLE Mentor Volunteer since S21
